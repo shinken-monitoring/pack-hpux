@@ -10,6 +10,10 @@
 		"name": "Jean Gabes",
 		"email": "naparuba@gmail.com"
 	  },
+          {
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
+          },
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
@@ -18,7 +22,11 @@
 	"repository": "https://github.com/shinken-monitoring/pack-hpux",
 	"keywords": [
 	  "pack",
-	  
+	  "hp",
+	  "hpux",
+	  "os",
+	  "server"
+	  "snmp"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
