@@ -1,0 +1,27 @@
+{
+	"name": "hpux",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-hpux",
+	"author": "Jean Gabes",
+	"description": "Standard HPUX checks, like CPU, RAM and disk space. Checks are done by SNMP.",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Imrane Dessai",
+		"email": "dessai.imrane@gmail.com"
+	  } 
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-hpux",
+	"keywords": [
+	  "pack",
+	  
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
