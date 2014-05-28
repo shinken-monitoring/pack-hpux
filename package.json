@@ -25,7 +25,7 @@
 	  "hp",
 	  "hpux",
 	  "os",
-	  "server"
+	  "server",
 	  "snmp"
 	],
 	"dependencies": {
