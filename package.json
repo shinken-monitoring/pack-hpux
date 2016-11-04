@@ -1,7 +1,7 @@
 {
 	"name": "hpux",
 	"types": ["pack"],
-	"version": "1.4",
+	"version": "1.5",
 	"homepage": "https://github.com/shinken-monitoring/pack-hpux",
 	"author": "Jean Gabes",
 	"description": "Standard HPUX checks, like CPU, RAM and disk space. Checks are done by SNMP.",
